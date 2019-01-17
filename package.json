@@ -19,6 +19,6 @@
   },
   "devDependencies": {
     "eslint-plugin-prettier": "^2.6.0",
-    "micro-dev": "^1.2.3"
+    "micro-dev": "^2.2.2"
   }
 }
