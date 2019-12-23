@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^1.0.2",
-    "eslint": "^3.14.1",
+    "eslint": "^6.8.0",
     "jsonwebtoken": "^7.2.1",
     "micro": "^6.2.1",
     "mongoose": "^5.0.16"
